@@ -7,3 +7,5 @@ https://youtu.be/HUBNt18RFbo
 ### Coding
 I will pick up where I left off on this course
 [The Python Mega Course](https://www.udemy.com/share/101Wa03@_qDgR15hgfhuA3xpmL_49H5Bm0yu95aVUamSXBUNvEWSY7AP0cyUjCRLP6yypx8=/)
+
+Completed the Map project. Not bad for Day 1.
