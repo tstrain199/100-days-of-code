@@ -14,3 +14,10 @@ Completed the Map project. Not bad for Day 1.
 Completed Section 16 Programming Errors. 
 
 Started RSS Terminal reader app.
+
+### Day 3: January 11, 2022
+Didn't get much done today. Spent a lot of time installing opencv-python on M1pro Mac.
+
+Completed Section 17 lessons 136 - 138.
+
+Also worked on RSS Terminal reader app.
