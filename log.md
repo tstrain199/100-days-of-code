@@ -21,3 +21,9 @@ Didn't get much done today. Spent a lot of time installing opencv-python on M1pr
 Completed Section 17 lessons 136 - 138.
 
 Also worked on RSS Terminal reader app.
+
+### Day 4: January 12, 2022
+Studied for AZ-900 exam for abount an hour. Feeling good about this exam so far. Pratie test soon.
+
+### Day 5: January 13. 2022
+Stared (again) freeCodeCamp Relational Database course
