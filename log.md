@@ -27,3 +27,6 @@ Studied for AZ-900 exam for abount an hour. Feeling good about this exam so far.
 
 ### Day 5: January 13. 2022
 Stared (again) freeCodeCamp Relational Database course
+
+### Day 6: January 25, 2022
+After a little surgery and recovery (I'm fine) I've started my MarketJones project. Started building the DB (PostgreSQL) server, and even loaded some data into the first table. 
