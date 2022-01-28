@@ -30,3 +30,6 @@ Stared (again) freeCodeCamp Relational Database course
 
 ### Day 6: January 25, 2022
 After a little surgery and recovery (I'm fine) I've started my MarketJones project. Started building the DB (PostgreSQL) server, and even loaded some data into the first table. 
+
+### Day 7: January 27, 2022 
+Looked at a lot of Python Quuant/Trading Material online. More work on MarketJones; chuncked list for batch api calls; built request query
